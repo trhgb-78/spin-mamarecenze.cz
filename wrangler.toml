@@ -1,0 +1,11 @@
+name = "spin-mamarecenze-cz"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-mamarecenze.cz"
+HMAC_KEY = "7a8d1cc1df6f8c8ca2e101d334d26e0004bfad91269e023701aa43b16cd63062"
+COOKIE_NAME = "qzk"
+PLAY_PATH = "try-now"
+BUTTON_ID = "ped7f0efde5c14d6c6faeaacfa64bb13d"
+GATE_SALT = "63d0c8cff126bdfe"
